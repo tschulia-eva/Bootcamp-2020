@@ -7,7 +7,7 @@ Simple machine learning (first steps)
            netflix_series.csv
 
 Extension!
-Exploratory Analysi with matplotlib and plotly         
+Exploratory analysis with matplotlib and plotly         
 
 2.project: netfix shows & movies.ipynb
            netflix_shows_movies_csv
